@@ -1,7 +1,7 @@
 {
   "name": "regexp-id",
   "description": "Returns an identifier based on a RegExp match against an object property's value.",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "author": "Wil Moore III <wil.moore@wilmoore.com>",
   "bugs": {
     "url": "https://github.com/wilmoore/regexp-id.js/issues"
